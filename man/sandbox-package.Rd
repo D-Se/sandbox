@@ -8,11 +8,12 @@
 \description{
 \if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
-An enclosed environment to experiment with R code and receive feeback on approaches.
+Gamify learning programming in R. Get challenges and feedback on progress!
 }
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://github.com/D-Se/sandbox}
   \item Report bugs at \url{https://github.com/D-Se/ergo/issues}
 }
 
