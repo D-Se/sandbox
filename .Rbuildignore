@@ -1,0 +1,9 @@
+^.git$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+
+# functions that are being tinkered. Unfinished business.
+^shed
+^data-raw$
